@@ -6,7 +6,7 @@ Setting Up Github: Hmmm I did it, but it drained me. I didn't know that setting 
                    that I used this occurrence as an excecuse to procrastinate a further two days (bad habit). Then I signed 
                    up for a new account using my Gmail and recieved the validation code right away. This was an inauspicious 
                    start to the course, however I needed to give myself a week to digest the overwhelming newness of everything
-                   this course has to offer. It wasn't just the fact that I'm not a techy person that made Week-one overwheling,
+                   this course has to offer. It wasn't just the fact that I'm not a techy person that made Week-oneoverwheling,
                    I also had an epiphany hearing and reading about the Failing Gloriously concept, I realized how much failure 
                    has caused me a lot of anxiety and sadness in the past when it should have been a step to propel me towards
                    success. I was left wondering about the 'what if' of it all: What if I didn't shame myself for failing, what
@@ -16,8 +16,7 @@ Setting Up Github: Hmmm I did it, but it drained me. I didn't know that setting 
                    realization and shook off all the what ifs after journalling and meditation, I moved on to the next step of 
                    this week's (last week's) to-do-list:
 Setting Up Hypothesis: Setting up Hypothesis was relatively straight forward, but after doing so I found it difficult to choose 
-                       excerpts to highlight or annotate things, but then reminded that I shouldn't put that pressure on myself  
-                       because the software was meant to be used as a tool by me rather than me being a tool for the software 
+                       excerpts to highlight or annotate things, but then reminded that I shouldn't put that pressure on myself                        because the software was meant to be used as a tool by me rather than me being a tool for the software 
                        (I am proud of myself for thinking that way, I already learned a life-changing lessons from week one 
                         alone; wow!)
 Setting up Zotero: Where has this tool been for the past four years of university? I can easily put all of my reading notes in
